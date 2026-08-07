@@ -28,7 +28,7 @@ See the [About](about) page for the full course policies, learning goals, gradin
 
 ## Resources
 
-- Course syllabus: TBA
-- Ed: TBA
-- Canvas: TBA
-- Anonymous feedback form: TBA
+- [Course syllabus](https://docs.google.com/document/d/1DMCA_Ae4PeRkKwqnkqIjgk8dC3jZ5L77-C0wY_lbyc8/edit?usp=sharing)
+- [Ed](https://edstem.org/us/courses/101112/discussion)
+- [Canvas](https://canvas.brown.edu/courses/1103779)
+- [Anonymous feedback form](https://forms.gle/Zvyx1i1E8gcPp2iT6)
