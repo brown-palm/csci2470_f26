@@ -1,22 +1,21 @@
 ---
 layout: home
-title: CS 2952N
+title: CSCI 2470
 nav_exclude: true
 seo:
   type: Course
   name: Just the Class
 ---
 
-# Deep Learning (Fall 2025)
+# Deep Learning (Fall 2026)
 
 ---
 
 ## Time and Location
 
 - Tuesday, Thursday 1:00-2:20 PM Eastern Time
-- Instructor: [Chen Sun](https://chensun.me) ([chen_sun4@brown.edu](mailto:chensun@brown.edu))
-- Office hour: 3:30 to 5:00 PM on Tuesdays, or by appointment
-- Classroom: Friedman Hall 108 
+- Instructor: [Chen Sun](https://chensun.me) ([chen_sun4@brown.edu](mailto:chen_sun4@brown.edu))
+- Classroom: Friedman Hall 202 
 
 _In-class participation is **required** unless otherwise approved by the instructor._  
 _Lectures will be recorded for asynchronous viewing._
@@ -29,7 +28,7 @@ See the [About](about) page for the full course policies, learning goals, gradin
 
 ## Resources
 
-- [Course syllabus](https://docs.google.com/document/d/1oV753neoAo-__Ir55szOSBW7GpqraXSOx1VbuYdB8PQ)
-- [Ed](https://edstem.org/us/courses/82047/discussion)
-- [Canvas](https://canvas.brown.edu/courses/1100300)
-- [Anonymous feedback form](https://forms.gle/nyr6e75zQ1T2VkzS6)
+- Course syllabus: TBA
+- Ed: TBA
+- Canvas: TBA
+- Anonymous feedback form: TBA

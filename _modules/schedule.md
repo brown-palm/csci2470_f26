@@ -33,10 +33,6 @@ Sep. 29, Tue
   : Chen Sun
 : 1. [Slides](https://drive.google.com/file/d/1ajQ5O86DjSD7fLsmLrEhVCn1jsJEo9vS/view?usp=sharing)
 
-Sep. 29, Tue
-: **EXTRA**{: .label .label-purple} Paper Nomination
-: 1. Due date: TBA
-
 Oct. 1, Thu
 : Convolutional Neural Networks: Introduction
   : Chen Sun
@@ -52,10 +48,6 @@ Oct. 6, Tue
 : Convolutional Neural Networks: Architectures
   : Chen Sun
 : 1. [Slides](https://drive.google.com/file/d/1BUAE8yAv_UB-wj4pRcR5n5Nmar0afUQV/view?usp=sharing)
-
-Oct. 6, Tue
-: **EXTRA**{: .label .label-purple} Paper Presentation Recording
-: 1. Due date: TBA
 
 Oct. 8, Thu
 : Convolutional Neural Networks in Practice

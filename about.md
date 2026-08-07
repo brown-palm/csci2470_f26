@@ -5,7 +5,7 @@ nav_exclude: false
 description: Course policies and information.
 ---
 
-# Deep Learning (Fall 2025)
+# Deep Learning (Fall 2026)
 
 ---
 
@@ -24,9 +24,8 @@ Students who complete this course will:
 
 ## Grading
 
-- 60% Assignments and Mini-Projects (Required Components)
-- 30% Final Project
-- 10% Extra "Bonus" Components
+- 60% Assignments and Mini-Projects
+- 40% Final Project
 
 ## Academic Integrity & Collaboration Policy
 
