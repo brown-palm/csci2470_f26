@@ -12,10 +12,10 @@ nav_exclude: false
 {{ staffer }}
 {% endfor %}
 
-## Co-Instructor / Graduate TA
+## Graduate TA
 
-{% assign coinstructors = site.staffers | where: 'role', 'Co-Instructor' %}
-{% for staffer in coinstructors %}
+{% assign graduate_tas = site.staffers | where: 'role', 'Graduate TA' %}
+{% for staffer in graduate_tas %}
 {{ staffer }}
 {% endfor %}
 
