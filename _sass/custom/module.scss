@@ -49,6 +49,16 @@
 
       +dd {
         border-top: $border $border-color;
+
+        // Bold the title line so assignment/deadline entries (which have no
+        // nested presenter list) match the bold lecture titles, which are
+        // bold by virtue of becoming a nested <dt>.
+        font-weight: 500;
+
+        // Keep a nested presenter (e.g. "Chen Sun") at normal weight.
+        dl dd {
+          font-weight: normal;
+        }
       }
 
       &:first-child {

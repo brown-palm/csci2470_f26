@@ -9,7 +9,21 @@ description: Course policies and information.
 
 ---
 
-_See the [home page](./) for time, location, and course resources._
+## Time and Location
+
+- Tuesday, Thursday 1:00-2:20 PM Eastern Time
+- Instructor: [Chen Sun](https://chensun.me) ([chen_sun4@brown.edu](mailto:chen_sun4@brown.edu))
+- Classroom: Friedman Hall 202 
+
+_In-class participation is **required** unless otherwise approved by the instructor._  
+_Lectures will be recorded for asynchronous viewing._
+
+## Resources
+
+- Course syllabus: TBA
+- Ed: TBA
+- Canvas: TBA
+- Anonymous feedback form: TBA
 
 ## Learning Goals
 
