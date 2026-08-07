@@ -17,7 +17,7 @@ title: CSCI 2470
 tagline: Brown CSCI 2470 
 description: Brown CSCI 2470 
 author: Chen Sun
-baseurl: '/csci2470_f25' # the subpath of your site, e.g. /blog
+baseurl: '/csci2470_f26' # the subpath of your site, e.g. /blog
 url: 'https://brown-palm.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
@@ -31,7 +31,7 @@ aux_links:
   Chen Sun:
     - 'https://chensun.me/'
   CSCI 2952-N:
-    - 'https://brown-cs2952n.github.io/spring2025/'
+    - 'https://brown-cs2952n.github.io/spring2026/'
 footer_content:
 
 # Collections for website data
