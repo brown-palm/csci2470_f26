@@ -7,9 +7,6 @@ Sep. 15, Tue
   : Chen Sun
 : 1. Recommended Reading: [What is AI?](http://jmc.stanford.edu/artificial-intelligence/what-is-ai/index.html)
 
-Sep. 15, Tue
-: **Final**{: .label .label-purple} Preview of example final project ideas
-
 Sep. 17, Thu
 : Loss Functions and Optimization
   : Chen Sun
@@ -46,9 +43,6 @@ Oct. 6, Tue
 : Convolutional Neural Network: Architectures
   : Chen Sun
 
-Oct. 6, Tue
-: **Final**{: .label .label-purple} Final project TA consulting session (1)
-
 Oct. 8, Thu
 : Convolutional Neural Networks in Practice
   : Chen Sun
@@ -56,9 +50,6 @@ Oct. 8, Thu
 Oct. 13, Tue
 : Automatic Differentiation
   : Chen Sun
-
-Oct. 13, Tue
-: **Final**{: .label .label-purple} Final project TA consulting session (2)
 
 Oct. 15, Thu
 : Word Embeddings and Recurrent Neural Networks
@@ -83,7 +74,7 @@ Oct. 27, Tue
   : Chen Sun
 
 Oct. 29, Thu
-: **Final**{: .label .label-purple} Final Project Idea Pitch
+: Final Project Idea Pitch
 
 Oct. 29, Thu
 : **HW4**{: .label .label-purple} Transformers and Min-Llama
@@ -106,9 +97,6 @@ Nov. 12, Thu
 Nov. 17, Tue
 : **INVITED**{: .label .label-blue} Invited Talk
   : Jiatao Gu (tentative)
-
-Nov. 17, Tue
-: **Final**{: .label .label-purple} Final project TA consulting session (3)
 
 Nov. 19, Thu
 : **INVITED**{: .label .label-blue} Invited Talk
@@ -137,7 +125,7 @@ Dec. 8, Tue
   : Zitian Tang
 
 Dec. 10, Thu
-: **Final**{: .label .label-purple} Final Project Presentations
+: Final Project Presentations
 
 Dec. 17, Thu
 : **Final**{: .label .label-purple} Final Project Deliverables Due
