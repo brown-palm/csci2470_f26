@@ -96,15 +96,15 @@ Nov. 12, Thu
 
 Nov. 17, Tue
 : **INVITED**{: .label .label-blue} Invited Talk
-  : Jiatao Gu (tentative)
+  : [Jiatao Gu](https://jiataogu.me/) (tentative)
 
 Nov. 19, Thu
 : **INVITED**{: .label .label-blue} Invited Talk
-  : Tejas Kulkarni (tentative)
+  : [Tejas Kulkarni](https://tejasdkulkarni.github.io/) (tentative)
 
 Nov. 24, Tue
 : Generative Models for Robotic Learning
-  : Zilai Zeng
+  : [Zilai Zeng](http://zilaiz.github.io/)
 
 Nov. 24, Tue
 : **MP2**{: .label .label-purple} Diffusion Models (Application)
@@ -122,7 +122,7 @@ Dec. 3, Thu
 
 Dec. 8, Tue
 : Reinforcement Learning for LLMs
-  : Zitian Tang
+  : [Zitian Tang](http://zitiantang.github.io/)
 
 Dec. 10, Thu
 : Final Project Presentations
