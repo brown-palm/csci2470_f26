@@ -80,49 +80,46 @@ Oct. 29, Thu
 : **HW4**{: .label .label-purple} Transformers and Min-Llama
 
 Nov. 5, Thu
-: Intro to Generative Models and Representation Learning
-  : Chen Sun
-
-Nov. 10, Tue
-: Diffusion Models
-  : Chen Sun
-
-Nov. 10, Tue
-: **MP1**{: .label .label-purple} Diffusion Models (Foundation)
-
-Nov. 12, Thu
-: Deep Generative Models in Practice
-  : Chen Sun
-
-Nov. 17, Tue
-: **INVITED**{: .label .label-blue} Invited Talk
-  : [Jiatao Gu](https://jiataogu.me/) (tentative)
-
-Nov. 19, Thu
-: **INVITED**{: .label .label-blue} Invited Talk
-  : [Tejas Kulkarni](https://tejasdkulkarni.github.io/) (tentative)
-
-Nov. 24, Tue
 : Generative Models for Robotic Learning
   : [Zilai Zeng](http://zilaiz.github.io/)
 
+Nov. 10, Tue
+: **INVITED**{: .label .label-blue} Invited Talk
+  : [Rosie Zhao](https://rosieyzh.github.io/) (tentative)
+
+Nov. 12, Thu
+: Diffusion Models
+  : Chen Sun
+
+Nov. 12, Thu
+: **MP1**{: .label .label-purple} Diffusion Models
+
+Nov. 17, Tue
+: Deep Generative Models in Practice
+  : Chen Sun
+
+Nov. 19, Thu
+: **INVITED**{: .label .label-blue} Invited Talk
+  : [Mehul Damani](https://damanimehul.github.io/) (tentative)
+
 Nov. 24, Tue
-: **MP2**{: .label .label-purple} Diffusion Models (Application)
-
-Dec. 1, Tue
-: Introduction to Reinforcement Learning
-  : Chen Sun
-
-Dec. 1, Tue
-: **MP3**{: .label .label-purple} Reinforcement Learning for LLMs
-
-Dec. 3, Thu
-: Policy Gradient
-  : Chen Sun
-
-Dec. 8, Tue
 : Reinforcement Learning for LLMs
   : [Zitian Tang](http://zitiantang.github.io/)
+
+Nov. 24, Tue
+: **MP2**{: .label .label-purple} Reinforcement Learning for LLMs
+
+Dec. 1, Tue
+: **INVITED**{: .label .label-blue} Invited Talk
+  : [Jiatao Gu](https://jiataogu.me/) (tentative)
+
+Dec. 3, Thu
+: **INVITED**{: .label .label-blue} Invited Talk
+  : [Tejas Kulkarni](https://tejasdkulkarni.github.io/) (tentative)
+
+Dec. 8, Tue
+: Reinforcement Learning beyond LLMs
+  : Chen Sun
 
 Dec. 10, Thu
 : Final Project Presentations
