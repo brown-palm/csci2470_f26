@@ -23,6 +23,7 @@ schedule:
       - name: TA Hours (Jiayi, Yinghua)
         start: 1:00 PM
         end: 3:00 PM
+        location: CIT 201
   - name: Tuesday
     events:
       - name: Lecture
@@ -32,11 +33,13 @@ schedule:
       - name: TA Hours (Zitian, Ran)
         start: 5:00 PM
         end: 7:00 PM
+        location: CIT 167
   - name: Wednesday
     events:
       - name: TA Hours (Yujin, Yinghua)
         start: 1:00 PM
         end: 3:00 PM
+        location: CIT 348
   - name: Thursday
     events:
       - name: Lecture
@@ -46,9 +49,11 @@ schedule:
       - name: TA Hours (Ran, Kevin)
         start: 3:00 PM
         end: 5:00 PM
+        location: CIT 410
       - name: TA Hours (Yujin, Zitian)
         start: 5:00 PM
         end: 7:00 PM
+        location: CIT 410
   - name: Friday
     events:
       - name: TA Hours (Jiayi, Kevin)
