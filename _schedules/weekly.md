@@ -29,9 +29,6 @@ schedule:
         start: 1:00 PM
         end: 2:30 PM
         location: Friedman Hall 202
-      - name: Office Hour (Chen)
-        start: 3:30 PM
-        end: 5:00 PM
       - name: TA Hours (Zitian, Ran)
         start: 5:00 PM
         end: 7:00 PM
