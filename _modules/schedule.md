@@ -5,7 +5,8 @@ title: Lectures
 Sep. 15, Tue
 : Machine Learning Recap and Perceptrons
   : Chen Sun
-: 1. Recommended Reading: [What is AI?](http://jmc.stanford.edu/artificial-intelligence/what-is-ai/index.html)
+: 1. [Slides](https://drive.google.com/file/d/1eduqtJ8FOhJ_Q5irYSj_eMCsiXJeRue0/view?usp=drive_link)
+  1. Recommended Reading: [What is AI?](http://jmc.stanford.edu/artificial-intelligence/what-is-ai/index.html)
 
 Sep. 17, Thu
 : Loss Functions and Optimization
