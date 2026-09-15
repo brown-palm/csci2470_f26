@@ -3,7 +3,7 @@ title: Lectures
 ---
 
 Sep. 15, Tue
-: Machine Learning Recap and Perceptrons ([Slides](https://drive.google.com/file/d/1eduqtJ8FOhJ_Q5irYSj_eMCsiXJeRue0/view?usp=drive_link))
+: [Machine Learning Recap and Perceptrons](https://drive.google.com/file/d/1JUtTiJeK66VlJsV6_jN0uauW0H1UE4T8/view?usp=sharing) ([Slides](https://drive.google.com/file/d/1eduqtJ8FOhJ_Q5irYSj_eMCsiXJeRue0/view?usp=drive_link))
   : Chen Sun
 : 1. Recommended Reading: [What is AI?](http://jmc.stanford.edu/artificial-intelligence/what-is-ai/index.html)
 
