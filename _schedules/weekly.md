@@ -1,11 +1,5 @@
 ---
 timeline:
-  - '9:00 AM'
-  - '9:30 AM'
-  - '10:00 AM'
-  - '10:30 AM'
-  - '11:00 AM'
-  - '11:30 AM'
   - '12:00 PM'
   - '12:30 PM'
   - '1:00 PM'
@@ -22,63 +16,45 @@ timeline:
   - '6:30 PM'
   - '7:00 PM'
   - '7:30 PM'
-  - '8:00 PM'
-  - '8:30 PM'
-  - '9:00 PM'
-  - '9:30 PM'
-  - '10:00 PM'
-  - '10:30 PM'
-  - '11:00 PM'
 
 schedule:
   - name: Monday
     events:
-      - name: TA Office Hours
+      - name: TA Hours (Jiayi, Yinghua)
         start: 1:00 PM
         end: 3:00 PM
-        location: CIT 102
-      - name: TA Office Hours
-        start: 3:00 PM
-        end: 5:00 PM
-        location: CIT 210
   - name: Tuesday
     events:
-      - name: TA Office Hours
-        start: 11:00 AM
-        end: 1:00 PM
-        location: CIT 348
       - name: Lecture
         start: 1:00 PM
         end: 2:30 PM
-        location: Friedman Hall 108
-      - name: Office Hour (Nate)
-        start: 2:30 PM
-        end: 4:00 PM
-        location: CIT 316
+        location: Friedman Hall 202
       - name: Office Hour (Chen)
         start: 3:30 PM
         end: 5:00 PM
-        location: CIT 379
+      - name: TA Hours (Zitian, Ran)
+        start: 5:00 PM
+        end: 7:00 PM
   - name: Wednesday
     events:
-      - name: TA Office Hours
-        start: 7:00 PM
-        end: 9:00 PM
-        location: CIT 367
+      - name: TA Hours (Yujin, Yinghua)
+        start: 1:00 PM
+        end: 3:00 PM
   - name: Thursday
     events:
       - name: Lecture
         start: 1:00 PM
         end: 2:30 PM
-        location: Friedman Hall 108
-      - name: TA Office Hours
-        start: 7:00 PM
-        end: 9:00 PM
-        location: CIT 201
+        location: Friedman Hall 202
+      - name: TA Hours (Ran, Kevin)
+        start: 3:00 PM
+        end: 5:00 PM
+      - name: TA Hours (Yujin, Zitian)
+        start: 5:00 PM
+        end: 7:00 PM
   - name: Friday
     events:
-      - name: TA Office Hours
-        start: 11:00 AM
-        end: 1:00 PM
-        location: CIT 167 (MS Lab)
+      - name: TA Hours (Jiayi, Kevin)
+        start: 2:00 PM
+        end: 4:00 PM
 ---
