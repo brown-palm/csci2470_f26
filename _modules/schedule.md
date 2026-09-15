@@ -3,10 +3,9 @@ title: Lectures
 ---
 
 Sep. 15, Tue
-: Machine Learning Recap and Perceptrons
+: Machine Learning Recap and Perceptrons ([Slides](https://drive.google.com/file/d/1eduqtJ8FOhJ_Q5irYSj_eMCsiXJeRue0/view?usp=drive_link))
   : Chen Sun
-: 1. [Slides](https://drive.google.com/file/d/1eduqtJ8FOhJ_Q5irYSj_eMCsiXJeRue0/view?usp=drive_link)
-  1. Recommended Reading: [What is AI?](http://jmc.stanford.edu/artificial-intelligence/what-is-ai/index.html)
+: 1. Recommended Reading: [What is AI?](http://jmc.stanford.edu/artificial-intelligence/what-is-ai/index.html)
 
 Sep. 17, Thu
 : Loss Functions and Optimization
@@ -86,7 +85,7 @@ Nov. 5, Thu
 
 Nov. 10, Tue
 : **INVITED**{: .label .label-blue} Invited Talk
-  : [Rosie Zhao](https://rosieyzh.github.io/) (tentative)
+  : [Rosie Zhao](https://rosieyzh.github.io/)
 
 Nov. 12, Thu
 : Diffusion Models
@@ -101,7 +100,7 @@ Nov. 17, Tue
 
 Nov. 19, Thu
 : **INVITED**{: .label .label-blue} Invited Talk
-  : [Mehul Damani](https://damanimehul.github.io/) (tentative)
+  : [Mehul Damani](https://damanimehul.github.io/)
 
 Nov. 24, Tue
 : Reinforcement Learning for LLMs
