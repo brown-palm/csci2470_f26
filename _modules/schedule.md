@@ -8,7 +8,7 @@ Sep. 15, Tue
 : 1. Recommended Reading: [What is AI?](http://jmc.stanford.edu/artificial-intelligence/what-is-ai/index.html)
 
 Sep. 17, Thu
-: Loss Functions and Optimization
+: Loss Functions and Optimization ([Slides](https://drive.google.com/file/d/1p2lwSI3xjdSnfDeKccEsxcyZWyryNImb/view?usp=drive_link))
   : Chen Sun
 
 Sep. 17, Thu
