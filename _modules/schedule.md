@@ -13,6 +13,7 @@ Sep. 17, Thu
 
 Sep. 17, Thu
 : **HW1**{: .label .label-purple} Math and Machine Learning Recap
+: [Handout](https://hackmd.io/@cs2470f26/B1eOLXvOGl)
 
 Sep. 22, Tue
 : Stochastic Gradient Descent and Multi-layer Perceptrons
