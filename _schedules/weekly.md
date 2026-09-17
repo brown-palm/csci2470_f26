@@ -59,4 +59,5 @@ schedule:
       - name: TA Hours (Jiayi, Kevin)
         start: 2:00 PM
         end: 4:00 PM
+        location: CIT 410
 ---
