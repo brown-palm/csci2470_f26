@@ -60,7 +60,7 @@ Oct. 15, Thu
 : **HW3**{: .label .label-purple} Beras
 
 Oct. 20, Tue
-: Machine Translation
+: Machine Translation (Recording)
   : Chen Sun
 
 Oct. 20, Tue
