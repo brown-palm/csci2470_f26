@@ -16,7 +16,7 @@ Sep. 17, Thu
 : 1. [Handout](https://hackmd.io/@cs2470f26/B1eOLXvOGl)
 
 Sep. 22, Tue
-: Stochastic Gradient Descent and Multi-layer Perceptrons ([Slides](https://drive.google.com/file/d/1vG0I0cDxhqS7CQYL9wr-X8GiYKDAqXAf/view?usp=sharing))
+: [Stochastic Gradient Descent and Multi-layer Perceptrons](https://drive.google.com/file/d/1bACdN80OomXHQ-9UmR9NUvhb0bfLIcNd/view?usp=drive_link) ([Slides](https://drive.google.com/file/d/1vG0I0cDxhqS7CQYL9wr-X8GiYKDAqXAf/view?usp=sharing))
   : Chen Sun
 
 Sep. 24, Thu
