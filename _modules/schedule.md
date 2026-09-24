@@ -20,7 +20,7 @@ Sep. 22, Tue
   : Chen Sun
 
 Sep. 24, Thu
-: Backpropagation ([Slides](https://drive.google.com/file/d/1whT98cGbnwqUtd7ctcTXaelCUbWP8uYA/view?usp=drive_link))
+: [Backpropagation](https://drive.google.com/file/d/1uAwyu3a0O2_6MJk15pcAv9Ngk_-BNcKx/view?usp=drive_link) ([Slides](https://drive.google.com/file/d/1whT98cGbnwqUtd7ctcTXaelCUbWP8uYA/view?usp=drive_link))
   : Chen Sun
 : 1. Recommended Reading: [Hacker's guide to Neural Networks](https://karpathy.github.io/neuralnets/)
 
