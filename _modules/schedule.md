@@ -25,11 +25,12 @@ Sep. 24, Thu
 : 1. Recommended Reading: [Hacker's guide to Neural Networks](https://karpathy.github.io/neuralnets/)
 
 Sep. 29, Tue
-: Deep Learning Softwares and Hardwares
+: Deep Learning Softwares and Hardwares ([Slides](https://drive.google.com/file/d/19vehH9BsT7xh3-pdolQoez_1Xo6yMTPJ/view?usp=sharing))
   : Chen Sun
 
 Sep. 29, Tue
 : **Final**{: .label .label-purple} Final project teaming
+: 1. [Form](https://forms.gle/m6aQ5Bkqs2RZpHyd9)
 
 Oct. 1, Thu
 : Convolutional Neural Network: Introduction
