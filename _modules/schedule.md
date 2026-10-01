@@ -52,11 +52,11 @@ Oct. 8, Thu
   : Chen Sun
 
 Oct. 13, Tue
-: Word Embeddings and Recurrent Neural Networks (Recording)
+: Automatic Differentiation
   : Chen Sun
 
 Oct. 15, Thu
-: Automatic Differentiation
+: Word Embeddings and Recurrent Neural Networks
   : Chen Sun
 
 Oct. 15, Thu
@@ -83,6 +83,10 @@ Oct. 29, Thu
 Oct. 29, Thu
 : **HW4**{: .label .label-purple} LLMs
 
+Oct. 30, Fri
+: **INVITED**{: .label .label-blue} Invited Talk
+  : [Jiatao Gu](https://jiataogu.me/)
+
 Nov. 5, Thu
 : Generative Models for Robotic Learning
   : [Zilai Zeng](http://zilaiz.github.io/)
@@ -99,8 +103,8 @@ Nov. 12, Thu
 : **MP1**{: .label .label-purple} Diffusion Models
 
 Nov. 17, Tue
-: Deep Generative Models in Practice
-  : Chen Sun
+: **INVITED**{: .label .label-blue} Invited Talk
+  : [Tejas Kulkarni](https://tejasdkulkarni.github.io/) (tentative)
 
 Nov. 19, Thu
 : **INVITED**{: .label .label-blue} Invited Talk
@@ -114,15 +118,19 @@ Nov. 24, Tue
 : **MP2**{: .label .label-purple} Reinforcement Learning for LLMs
 
 Dec. 1, Tue
-: **INVITED**{: .label .label-blue} Invited Talk
-  : [Jiatao Gu](https://jiataogu.me/) (tentative)
+: No Class (Final Project Office Hours)
+  : Chen Sun
 
 Dec. 3, Thu
+: No Class (Final Project Office Hours)
+  : Chen Sun
+
+Dec. 4, Fri
 : **INVITED**{: .label .label-blue} Invited Talk
-  : [Tejas Kulkarni](https://tejasdkulkarni.github.io/) (tentative)
+  : [Andrew Owens](https://andrewowens.com/)
 
 Dec. 8, Tue
-: Reinforcement Learning beyond LLMs
+: Reinforcement Learning before LLMs
   : Chen Sun
 
 Dec. 10, Thu
