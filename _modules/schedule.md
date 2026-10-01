@@ -33,7 +33,7 @@ Sep. 29, Tue
 : 1. [Form](https://forms.gle/m6aQ5Bkqs2RZpHyd9)
 
 Oct. 1, Thu
-: Convolutional Neural Network: Introduction ([Slides](https://drive.google.com/file/d/1iOJiLvT2EICrh2FnCvenVHNo5KxpQYvQ/view?usp=sharing))
+: [Convolutional Neural Network: Introduction](https://drive.google.com/file/d/1xXTzNZ1OsR9anz0NyfiFT8_LZBhB7WlA/view?usp=drive_link) ([Slides](https://drive.google.com/file/d/1iOJiLvT2EICrh2FnCvenVHNo5KxpQYvQ/view?usp=sharing))
   : Chen Sun
 : 1. Recommended Reading: [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
   1. Recommended Reading: [Induction, Inductive Biases, and Infusing Knowledge into Learned Representations](https://sgfin.github.io/2020/06/22/Induction-Intro/)
@@ -41,6 +41,7 @@ Oct. 1, Thu
 Oct. 1, Thu
 : **HW2**{: .label .label-purple} CNN
 : 1. [Handout](https://hackmd.io/8Gy46rvXQbGP-HZxgvAZ1g)
+  1. [GenAI form](https://forms.gle/btt1UBpnweP7YczW9)
 
 Oct. 6, Tue
 : Convolutional Neural Network: Architectures
@@ -51,11 +52,11 @@ Oct. 8, Thu
   : Chen Sun
 
 Oct. 13, Tue
-: Automatic Differentiation
+: Word Embeddings and Recurrent Neural Networks (Recording)
   : Chen Sun
 
 Oct. 15, Thu
-: Word Embeddings and Recurrent Neural Networks
+: Automatic Differentiation
   : Chen Sun
 
 Oct. 15, Thu
@@ -80,7 +81,7 @@ Oct. 29, Thu
 : Final Project Idea Pitch
 
 Oct. 29, Thu
-: **HW4**{: .label .label-purple} Transformers and Min-Llama
+: **HW4**{: .label .label-purple} LLMs
 
 Nov. 5, Thu
 : Generative Models for Robotic Learning
