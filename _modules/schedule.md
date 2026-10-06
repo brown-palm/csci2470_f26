@@ -44,7 +44,7 @@ Oct. 1, Thu
   1. [GenAI form](https://forms.gle/btt1UBpnweP7YczW9)
 
 Oct. 6, Tue
-: Convolutional Neural Network: Architectures ([Slides](https://drive.google.com/file/d/1TVrPW8qgAACh1T6G0otFiu1hECpYT1cp/view?usp=sharing))
+: [Convolutional Neural Network: Architectures](https://drive.google.com/file/d/1HWiqURNm96ECH9iovlq1qewUmMd1j5uv/view?usp=drive_link) ([Slides](https://drive.google.com/file/d/1TVrPW8qgAACh1T6G0otFiu1hECpYT1cp/view?usp=sharing))
   : Chen Sun
 
 Oct. 8, Thu
