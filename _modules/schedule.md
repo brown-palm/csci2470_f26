@@ -48,7 +48,7 @@ Oct. 6, Tue
   : Chen Sun
 
 Oct. 8, Thu
-: Convolutional Neural Networks in Practice
+: Convolutional Neural Networks in Practice ([Slides](https://drive.google.com/file/d/1t-gjUkhGGSN0kkOwfRHCOTj9NeIl_sz_/view?usp=drive_link))
   : Chen Sun
 
 Oct. 13, Tue
