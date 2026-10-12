@@ -68,17 +68,19 @@ Oct. 20, Tue
 
 Oct. 20, Tue
 : **Final**{: .label .label-purple} Final project proposal
+  : [Add Your Slides Here](https://docs.google.com/presentation/d/1CHc_AZX7L-UBnW1JvKzXDGbDc6rnnJW_euDYI0ifpEo/edit?usp=sharing)
 
 Oct. 22, Thu
 : LSTM and Transformers
   : Chen Sun
 
 Oct. 27, Tue
-: Large Language Models and Multimodal Learning
+: (Multimodal) Large Language Models
   : Chen Sun
 
 Oct. 29, Thu
 : Final Project Idea Pitch
+  : [Slides](https://docs.google.com/presentation/d/1CHc_AZX7L-UBnW1JvKzXDGbDc6rnnJW_euDYI0ifpEo/edit?usp=sharing)
 
 Oct. 29, Thu
 : **HW4**{: .label .label-purple} LLMs
@@ -131,7 +133,6 @@ Dec. 4, Fri
 
 Dec. 8, Tue
 : Final Project Presentations (1)
-  : Chen Sun
 
 Dec. 10, Thu
 : Final Project Presentations (2)
