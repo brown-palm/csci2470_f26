@@ -52,18 +52,18 @@ Oct. 8, Thu
   : Chen Sun
 
 Oct. 13, Tue
-: Automatic Differentiation
+: Representation Learning
   : Chen Sun
 
 Oct. 15, Thu
-: Word Embeddings and Recurrent Neural Networks
+: Automatic Differentiation
   : Chen Sun
 
 Oct. 15, Thu
 : **HW3**{: .label .label-purple} Beras
 
 Oct. 20, Tue
-: Machine Translation (Recording)
+: Recurrent Neural Networks (Zoom)
   : Chen Sun
 
 Oct. 20, Tue
@@ -88,53 +88,53 @@ Oct. 30, Fri
   : [Jiatao Gu](https://jiataogu.me/)
 
 Nov. 5, Thu
-: Generative Models for Robotic Learning
-  : [Zilai Zeng](http://zilaiz.github.io/)
+: Reinforcement Learning for LLMs
+  : [Zitian Tang](http://zitiantang.github.io/)
 
 Nov. 10, Tue
 : **INVITED**{: .label .label-blue} Invited Talk
   : [Rosie Zhao](https://rosieyzh.github.io/)
 
 Nov. 12, Thu
-: Diffusion Models
+: Intro to Diffusion Models
   : Chen Sun
 
 Nov. 12, Thu
-: **MP1**{: .label .label-purple} Diffusion Models
+: **MP1**{: .label .label-purple} Reinforcement Learning for LLMs
 
 Nov. 17, Tue
-: **INVITED**{: .label .label-blue} Invited Talk
-  : [Tejas Kulkarni](https://tejasdkulkarni.github.io/) (tentative)
+: Diffusion Models: Applications (Zoom)
+  : Chen Sun
 
 Nov. 19, Thu
 : **INVITED**{: .label .label-blue} Invited Talk
   : [Mehul Damani](https://damanimehul.github.io/)
 
 Nov. 24, Tue
-: Reinforcement Learning for LLMs
-  : [Zitian Tang](http://zitiantang.github.io/)
+: Generative Models for Robotic Learning
+  : [Zilai Zeng](http://zilaiz.github.io/)
 
 Nov. 24, Tue
-: **MP2**{: .label .label-purple} Reinforcement Learning for LLMs
+: **MP2**{: .label .label-purple} Diffusion Models
 
 Dec. 1, Tue
-: No Class (Final Project Office Hours)
+: Deep Generative Models in Practice (Recording)
   : Chen Sun
 
 Dec. 3, Thu
-: No Class (Final Project Office Hours)
-  : Chen Sun
+: Video World Models for Robots
+  : Zilai and Zitian
 
 Dec. 4, Fri
-: **INVITED**{: .label .label-blue} Invited Talk
+: **INVITED**{: .label .label-blue} Invited Talk (Tentative)
   : [Andrew Owens](https://andrewowens.com/)
 
 Dec. 8, Tue
-: Reinforcement Learning before LLMs
+: Final Project Presentations (1)
   : Chen Sun
 
 Dec. 10, Thu
-: Final Project Presentations
+: Final Project Presentations (2)
 
 Dec. 17, Thu
 : **Final**{: .label .label-purple} Final Project Deliverables Due
