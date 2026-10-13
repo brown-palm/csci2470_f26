@@ -61,10 +61,13 @@ Oct. 15, Thu
 
 Oct. 15, Thu
 : **HW3**{: .label .label-purple} Beras
+: 1. [Handout](https://hackmd.io/JTf4nBtZROOXSFwgH_5FxQ)
+  1. [GenAI form](https://forms.gle/btt1UBpnweP7YczW9)
 
 Oct. 20, Tue
-: Recurrent Neural Networks (Recorded)
+: [Language Modeling and Recurrent Neural Networks](https://drive.google.com/file/d/1y10d2W2mhhnqhEtYJY65bK5HmLcY-815/view?usp=drive_link) ([Slides](https://drive.google.com/file/d/1jsl36i6fkmjksO09XYm3P5Al5wjPLHwg/view?usp=drive_link))
   : Chen Sun
+: 1. The lecture is **pre-recorded**!
 
 Oct. 20, Tue
 : **Final**{: .label .label-purple} Final project proposal
