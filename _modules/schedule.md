@@ -52,18 +52,18 @@ Oct. 8, Thu
   : Chen Sun
 
 Oct. 13, Tue
-: Representation Learning
+: Representation Learning ([Slides](https://drive.google.com/file/d/1pUlF-wu3ptAeDmwJprAk2bz8S0elc_Hi/view?usp=sharing))
   : Chen Sun
 
 Oct. 15, Thu
-: Automatic Differentiation
+: Automatic Differentiation ([Slides](https://drive.google.com/file/d/1PnBDw5H3Ynz64ghb25Tnqfq647K-o22p/view?usp=sharing))
   : Chen Sun
 
 Oct. 15, Thu
 : **HW3**{: .label .label-purple} Beras
 
 Oct. 20, Tue
-: Recurrent Neural Networks (Zoom)
+: Recurrent Neural Networks (Recorded)
   : Chen Sun
 
 Oct. 20, Tue
