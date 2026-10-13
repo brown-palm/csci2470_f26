@@ -52,7 +52,7 @@ Oct. 8, Thu
   : Chen Sun
 
 Oct. 13, Tue
-: Representation Learning ([Slides](https://drive.google.com/file/d/1pUlF-wu3ptAeDmwJprAk2bz8S0elc_Hi/view?usp=sharing))
+: [Representation Learning](https://drive.google.com/file/d/1jOB9973oqsFuI7MizEc8fkGDu-18NbQj/view?usp=drive_link) ([Slides](https://drive.google.com/file/d/1pUlF-wu3ptAeDmwJprAk2bz8S0elc_Hi/view?usp=sharing))
   : Chen Sun
 
 Oct. 15, Thu
