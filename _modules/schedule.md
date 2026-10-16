@@ -56,7 +56,7 @@ Oct. 13, Tue
   : Chen Sun
 
 Oct. 15, Thu
-: Automatic Differentiation ([Slides](https://drive.google.com/file/d/1PnBDw5H3Ynz64ghb25Tnqfq647K-o22p/view?usp=sharing))
+: [Automatic Differentiation](https://drive.google.com/file/d/1VfOdMGoP4UwHO5fwrRkvNaEo9BxiOL0B/view?usp=drive_link) ([Slides](https://drive.google.com/file/d/1PnBDw5H3Ynz64ghb25Tnqfq647K-o22p/view?usp=sharing))
   : Chen Sun
 
 Oct. 15, Thu
