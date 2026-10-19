@@ -69,10 +69,6 @@ Oct. 20, Tue
   : Chen Sun
 : 1. The lecture is **pre-recorded**!
 
-Oct. 20, Tue
-: **Final**{: .label .label-purple} Final project proposal
-  : [Add Your Slides Here](https://docs.google.com/presentation/d/1CHc_AZX7L-UBnW1JvKzXDGbDc6rnnJW_euDYI0ifpEo/edit?usp=sharing)
-
 Oct. 22, Thu
 : RNNs and Attention ([Slides](https://drive.google.com/file/d/1YzC2vB2CEeHdRloM03GOEste5VUNhgvK/view?usp=sharing))
   : Chen Sun
@@ -80,6 +76,10 @@ Oct. 22, Thu
 Oct. 27, Tue
 : (Multimodal) Large Language Models
   : Chen Sun
+
+Oct. 28, Wed
+: **Final**{: .label .label-purple} Final project proposal
+  : [Add Your Slides Here](https://docs.google.com/presentation/d/1CHc_AZX7L-UBnW1JvKzXDGbDc6rnnJW_euDYI0ifpEo/edit?usp=sharing)
 
 Oct. 29, Thu
 : Final Project Idea Pitch
