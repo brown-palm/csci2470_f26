@@ -70,7 +70,7 @@ Oct. 20, Tue
 : 1. The lecture is **pre-recorded**!
 
 Oct. 22, Thu
-: RNNs and Attention ([Slides](https://drive.google.com/file/d/1YzC2vB2CEeHdRloM03GOEste5VUNhgvK/view?usp=sharing))
+: [RNNs and Attention](https://drive.google.com/file/d/133xoNjmD6Ozgje19JoyLyLS_8PrDPI34/view?usp=drive_link) ([Slides](https://drive.google.com/file/d/1YzC2vB2CEeHdRloM03GOEste5VUNhgvK/view?usp=sharing))
   : Chen Sun
 
 Oct. 27, Tue
