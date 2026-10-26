@@ -88,10 +88,6 @@ Oct. 29, Thu
 Oct. 29, Thu
 : **HW4**{: .label .label-purple} LLMs
 
-Oct. 30, Fri
-: **INVITED**{: .label .label-blue} Invited Talk
-  : [Jiatao Gu](https://jiataogu.me/)
-
 Nov. 5, Thu
 : Reinforcement Learning for LLMs
   : [Zitian Tang](http://zitiantang.github.io/)
@@ -139,6 +135,10 @@ Dec. 8, Tue
 
 Dec. 10, Thu
 : Final Project Presentations (2)
+
+Dec. 11, Fri
+: **INVITED**{: .label .label-blue} Invited Talk
+  : [Jiatao Gu](https://jiataogu.me/)
 
 Dec. 17, Thu
 : **Final**{: .label .label-purple} Final Project Deliverables Due
