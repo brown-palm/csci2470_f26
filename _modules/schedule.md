@@ -74,7 +74,7 @@ Oct. 22, Thu
   : Chen Sun
 
 Oct. 27, Tue
-: (Multimodal) Large Language Models
+: Transformers and LLMs
   : Chen Sun
 
 Oct. 28, Wed
@@ -87,6 +87,8 @@ Oct. 29, Thu
 
 Oct. 29, Thu
 : **HW4**{: .label .label-purple} LLMs
+: 1. [Handout](https://hackmd.io/s3UfhrnXSxyTTQpdrauN7A)
+  1. [GenAI form](https://forms.gle/btt1UBpnweP7YczW9)
 
 Nov. 5, Thu
 : Reinforcement Learning for LLMs
