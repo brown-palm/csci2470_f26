@@ -74,7 +74,7 @@ Oct. 22, Thu
   : Chen Sun
 
 Oct. 27, Tue
-: Transformers and LLMs ([Slides](https://drive.google.com/file/d/11JFC1lzvoJZZcW1GodtKIouOn9taVg-G/view?usp=sharing))
+: [Transformers and LLMs](https://drive.google.com/file/d/17gw9T89P2PCnXavcE_y7Uc0uz9I--8OW/view?usp=sharing) ([Slides](https://drive.google.com/file/d/11JFC1lzvoJZZcW1GodtKIouOn9taVg-G/view?usp=sharing))
   : Chen Sun
 
 Oct. 28, Wed
