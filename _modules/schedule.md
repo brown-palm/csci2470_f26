@@ -82,7 +82,7 @@ Oct. 28, Wed
   : [Add Your Slides Here](https://docs.google.com/presentation/d/1CHc_AZX7L-UBnW1JvKzXDGbDc6rnnJW_euDYI0ifpEo/edit?usp=sharing)
 
 Oct. 29, Thu
-: Final Project Idea Pitch
+: [Final Project Idea Pitch](https://drive.google.com/file/d/1sJzFcRv2LKcnL6ikm4BiL2lYOt8vVfly/view?usp=sharing)
   : [Slides](https://docs.google.com/presentation/d/1CHc_AZX7L-UBnW1JvKzXDGbDc6rnnJW_euDYI0ifpEo/edit?usp=sharing)
 
 Oct. 29, Thu
