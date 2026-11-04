@@ -95,7 +95,7 @@ Nov. 5, Thu
   : [Zitian Tang](http://zitiantang.github.io/)
 
 Nov. 10, Tue
-: **INVITED**{: .label .label-blue} Invited Talk
+: **INVITED**{: .label .label-blue} From Distribution Sharpening to Richer Feedback: Directions in Understanding and Improving LLM Post-training
   : [Rosie Zhao](https://rosieyzh.github.io/)
 
 Nov. 12, Thu
