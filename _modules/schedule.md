@@ -91,7 +91,7 @@ Oct. 29, Thu
   1. [GenAI form](https://forms.gle/btt1UBpnweP7YczW9)
 
 Nov. 5, Thu
-: Reinforcement Learning for LLMs ([Slides](https://drive.google.com/file/d/1JFVwXLDDU7b4ZOcHJYudBgnHSMDmjLEk/view?usp=sharing))
+: [Reinforcement Learning for LLMs](https://drive.google.com/file/d/1MBJ_1W86Zkdb-zr11e5AYMFtM4wEZeFo/view?usp=sharing) ([Slides](https://drive.google.com/file/d/1JFVwXLDDU7b4ZOcHJYudBgnHSMDmjLEk/view?usp=sharing))
   : [Zitian Tang](http://zitiantang.github.io/)
 
 Nov. 10, Tue
