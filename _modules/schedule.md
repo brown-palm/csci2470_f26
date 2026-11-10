@@ -95,7 +95,7 @@ Nov. 5, Thu
   : [Zitian Tang](http://zitiantang.github.io/)
 
 Nov. 10, Tue
-: **INVITED**{: .label .label-blue} Directions in Understanding and Improving LLM Post-training
+: **INVITED**{: .label .label-blue} Directions in Understanding and Improving LLM Post-training ([Slides](https://drive.google.com/file/d/1F6qIcKv4ndqyjILyoHko0aNN_8vknZ76/view?usp=sharing))
   : [Rosie Zhao](https://rosieyzh.github.io/)
 
 Nov. 12, Thu
