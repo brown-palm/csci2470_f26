@@ -104,6 +104,8 @@ Nov. 12, Thu
 
 Nov. 12, Thu
 : **MP1**{: .label .label-purple} Reinforcement Learning for LLMs
+: 1. [Handout](https://docs.google.com/document/d/1o-bsWHGzDTx5T63_O1OvQx3teo5puloROJVETVHreIM/edit?usp=drive_link)
+  1. [GenAI form](https://forms.gle/btt1UBpnweP7YczW9)
 
 Nov. 17, Tue
 : Diffusion Models: Applications (Zoom)
