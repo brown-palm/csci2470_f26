@@ -108,8 +108,8 @@ Nov. 12, Thu
   1. [GenAI form](https://forms.gle/btt1UBpnweP7YczW9)
 
 Nov. 17, Tue
-: Diffusion Models: Applications (Pre-recorded)
-  : Chen Sun
+: [Diffusion Models: Applications](https://drive.google.com/file/d/14DmwC0IbARmXZmUFcRttT7iaw45sLB5I/view?usp=drive_link) (Pre-recorded) ([Slides](https://drive.google.com/file/d/1BkHGhP6EFb7nV0Gxpc47Ub29V7GpOfU4/view?usp=drive_link))
+  : Nate Gillman
 
 Nov. 19, Thu
 : **INVITED**{: .label .label-blue} Reinforcement Learning Beyond Verifiable Rewards
