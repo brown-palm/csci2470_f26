@@ -108,12 +108,13 @@ Nov. 12, Thu
   1. [GenAI form](https://forms.gle/btt1UBpnweP7YczW9)
 
 Nov. 17, Tue
-: Diffusion Models: Applications (Zoom)
+: Diffusion Models: Applications (Pre-recorded)
   : Chen Sun
 
 Nov. 19, Thu
-: **INVITED**{: .label .label-blue} Invited Talk
+: **INVITED**{: .label .label-blue} Reinforcement Learning Beyond Verifiable Rewards
   : [Mehul Damani](https://damanimehul.github.io/)
+: 1. The talk is on [Zoom](https://brown.zoom.us/my/chensun)
 
 Nov. 24, Tue
 : Generative Models for Robotic Learning
