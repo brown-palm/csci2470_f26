@@ -99,7 +99,7 @@ Nov. 10, Tue
   : [Rosie Zhao](https://rosieyzh.github.io/)
 
 Nov. 12, Thu
-: [Intro to Diffusion Models](https://drive.google.com/file/d/19ts3vTe3xPQewPW6ph1MwH7YXnulOeiD/view?usp=drive_link) ([Slides](https://drive.google.com/file/d/1cZuhM7_t1jFx8hhpMEP7gmZFQNsM7al6/view?usp=sharing))
+: Intro to Diffusion Models ([Recording Part 1](https://drive.google.com/file/d/19ts3vTe3xPQewPW6ph1MwH7YXnulOeiD/view?usp=drive_link) / [Part 2](https://drive.google.com/file/d/1bncj-qb6wgeaypFZF81tMoSap87JdSQ2/view?usp=sharing), [Slides](https://drive.google.com/file/d/1cZuhM7_t1jFx8hhpMEP7gmZFQNsM7al6/view?usp=sharing))
   : Chen Sun
 
 Nov. 12, Thu
