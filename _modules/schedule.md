@@ -109,7 +109,7 @@ Nov. 12, Thu
 
 Nov. 17, Tue
 : [Diffusion Models: Applications](https://drive.google.com/file/d/14DmwC0IbARmXZmUFcRttT7iaw45sLB5I/view?usp=drive_link) (Pre-recorded) ([Slides](https://drive.google.com/file/d/1BkHGhP6EFb7nV0Gxpc47Ub29V7GpOfU4/view?usp=drive_link))
-  : Nate Gillman
+  : [Nate Gillman](https://nategillman.com/)
 : 1. [Office hour sign-up sheet](https://calendar.app.google/8qBLcv8ou8nBHPrV6)
 
 Nov. 19, Thu
