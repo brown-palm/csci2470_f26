@@ -115,7 +115,6 @@ Nov. 17, Tue
 Nov. 19, Thu
 : **INVITED**{: .label .label-blue} [Reinforcement Learning Beyond Verifiable Rewards](https://drive.google.com/file/d/1pzCysdpl3Btyl5RVYx72d2osps8LV5cc/view?usp=sharing)
   : [Mehul Damani](https://damanimehul.github.io/)
-: 1. The talk is on [Zoom](https://brown.zoom.us/my/chensun)
 
 Nov. 24, Tue
 : Generative Models for Robotic Learning
