@@ -113,7 +113,7 @@ Nov. 17, Tue
 : 1. [Office hour sign-up sheet](https://calendar.app.google/8qBLcv8ou8nBHPrV6)
 
 Nov. 19, Thu
-: **INVITED**{: .label .label-blue} Reinforcement Learning Beyond Verifiable Rewards
+: **INVITED**{: .label .label-blue} [Reinforcement Learning Beyond Verifiable Rewards](https://drive.google.com/file/d/1pzCysdpl3Btyl5RVYx72d2osps8LV5cc/view?usp=sharing)
   : [Mehul Damani](https://damanimehul.github.io/)
 : 1. The talk is on [Zoom](https://brown.zoom.us/my/chensun)
 
