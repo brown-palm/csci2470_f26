@@ -138,9 +138,11 @@ Dec. 4, Fri
 
 Dec. 8, Tue
 : Final Project Presentations (1)
+: 1. [Handout](https://hackmd.io/qZT9xrVJRCeT8rEGRZaudA)
 
 Dec. 10, Thu
 : Final Project Presentations (2)
+: 1. [Handout](https://hackmd.io/qZT9xrVJRCeT8rEGRZaudA)
 
 Dec. 11, Fri
 : **INVITED**{: .label .label-blue} Invited Talk
