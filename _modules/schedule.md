@@ -131,10 +131,6 @@ Dec. 3, Thu
 : Video World Models for Robots
   : Zilai and Zitian
 
-Dec. 4, Fri
-: **INVITED**{: .label .label-blue} Invited Talk (Tentative)
-  : [Andrew Owens](https://andrewowens.com/)
-
 Dec. 8, Tue
 : Final Project Presentations (1)
 : 1. [Handout](https://hackmd.io/qZT9xrVJRCeT8rEGRZaudA)
@@ -142,10 +138,6 @@ Dec. 8, Tue
 Dec. 10, Thu
 : Final Project Presentations (2)
 : 1. [Handout](https://hackmd.io/qZT9xrVJRCeT8rEGRZaudA)
-
-Dec. 11, Fri
-: **INVITED**{: .label .label-blue} Invited Talk
-  : [Jiatao Gu](https://jiataogu.me/)
 
 Dec. 17, Thu
 : **Final**{: .label .label-purple} Final Project Deliverables Due
