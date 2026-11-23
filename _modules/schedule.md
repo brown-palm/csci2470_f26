@@ -134,10 +134,12 @@ Dec. 3, Thu
 Dec. 8, Tue
 : Final Project Presentations (1)
 : 1. [Handout](https://hackmd.io/qZT9xrVJRCeT8rEGRZaudA)
+  1. [Slides](https://docs.google.com/presentation/d/10M2v0tcDTa8_BT6x92XM3XHbPy03AJTMvg7HoTLe_ao/edit?usp=sharing)
 
 Dec. 10, Thu
 : Final Project Presentations (2)
 : 1. [Handout](https://hackmd.io/qZT9xrVJRCeT8rEGRZaudA)
+  1. [Slides](https://docs.google.com/presentation/d/10M2v0tcDTa8_BT6x92XM3XHbPy03AJTMvg7HoTLe_ao/edit?usp=sharing)
 
 Dec. 17, Thu
 : **Final**{: .label .label-purple} Final Project Deliverables Due
