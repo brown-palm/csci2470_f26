@@ -117,7 +117,7 @@ Nov. 19, Thu
   : [Mehul Damani](https://damanimehul.github.io/)
 
 Nov. 24, Tue
-: Generative Models for Robotic Learning
+: Generative Models for Robotic Learning ([Slides](https://drive.google.com/file/d/1Q8Q9EUT_BhMlYWHWvHrHvlLZbDiHD9BV/view?usp=sharing))
   : [Zilai Zeng](http://zilaiz.github.io/)
 
 Nov. 24, Tue
