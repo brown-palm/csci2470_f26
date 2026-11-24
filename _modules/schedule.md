@@ -125,7 +125,7 @@ Nov. 24, Tue
 : 1. [Handout](https://docs.google.com/document/d/134DiMRCnuf5FqWN2Laamh1k161HP1MfqplLsN7Njo5U/edit?usp=sharing)
 
 Dec. 1, Tue
-: Deep Generative Models in Practice (Recording)
+: [Deep Generative Models in Practice](https://drive.google.com/file/d/1FXJCF7CIi7XaAXH1cRhgOXjSl1oym1la/view?usp=drive_link) (Pre-recorded) ([Slides](https://drive.google.com/file/d/125rZ9pZ3Urx01ooSISsRgEaaILrupCcR/view?usp=drive_link))
   : Chen Sun
 
 Dec. 3, Thu
