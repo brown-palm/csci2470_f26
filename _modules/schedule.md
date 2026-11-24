@@ -122,6 +122,7 @@ Nov. 24, Tue
 
 Nov. 24, Tue
 : **MP2**{: .label .label-purple} Diffusion Models
+: 1. [Handout](https://docs.google.com/document/d/134DiMRCnuf5FqWN2Laamh1k161HP1MfqplLsN7Njo5U/edit?usp=sharing)
 
 Dec. 1, Tue
 : Deep Generative Models in Practice (Recording)
